@@ -1,8 +1,10 @@
 # SYMNet
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2e9024b5c2ff44279f49ea5382244d09)](https://app.codacy.com/app/yrahul3910/symnet?utm_source=github.com&utm_medium=referral&utm_content=yrahul3910/symnet&utm_campaign=Badge_Grade_Dashboard)
 
-SymNet is a deep learning pipeline with a focus on simplicity. Functionality is available through command-line options or as an API. The focus is
-on simplicity and getting quick results.
+SYMNet (Saha-Yedida-Mathur-Nagaraj Net) is a deep learning pipeline with a focus on simplicity and fast training of Deep Neural Nets. Functionality is available through command-line options or as an API. The focus is
+on simplicity and getting quick results. For theoretical understanding of the pipeline, please refer to the following papers:
+LipschitzLR learning rate policy: arXiv:1902.07399
+SBAF and A-ReLU activation functions: arXiv:1906.01975
 
 ## API Usage
 ### Numeric data
