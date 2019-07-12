@@ -4,6 +4,7 @@
 SYMNet (Saha-Yedida-Mathur-Nagaraj Net) is a deep learning pipeline with a focus on simplicity and fast training of Deep Neural Nets. Functionality is available through command-line options or as an API. The focus is
 on simplicity and getting quick results. For theoretical understanding of the pipeline, please refer to the following papers:
 LipschitzLR learning rate policy: arXiv:1902.07399
+
 SBAF and A-ReLU activation functions: arXiv:1906.01975
 
 ## API Usage
